@@ -4,6 +4,7 @@
   <img alt="GitHub Languages" src="https://img.shields.io/github/languages/top/dominikpaulitsch/Programming_HTBLA-Kaindorf?style=for-the-badge">
   <img alt="GitHub Repository-Stars" src="https://img.shields.io/github/stars/dominikpaulitsch/Programming_HTBLA-Kaindorf?style=for-the-badge&color=cecece">
 </p>
+
 ---
 
 ## About 💭
@@ -11,6 +12,7 @@
 `Code`, *code*, **code**.
 
 ## Download 🔨
+
 ### Linux / macOS / Windows
 
 1. Ensure you have [**git**](https://git-scm.com/downloads) installed.
@@ -23,7 +25,7 @@ git clone https://github.com/dominikpaulitsch/Programming.git
 
 - [x] 2020-2021
   - [x] LOAL
-  - [X] POS
+  - [x] POS
 - [ ] 2021-2022
   - [ ] LOAL
   - [ ] POS

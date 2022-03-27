@@ -1,8 +1,8 @@
 <h1 align="center">PROGRAMMING at HTBLA Kaindorf</h1>
 <p align="center">
-  <img alt="GitHub Repository-License" src="https://img.shields.io/github/license/dominikpaulitsch/Programming_HTBLA-Kaindorf?style=for-the-badge">
-  <img alt="GitHub Languages" src="https://img.shields.io/github/languages/top/dominikpaulitsch/Programming_HTBLA-Kaindorf?style=for-the-badge">
-  <img alt="GitHub Repository-Stars" src="https://img.shields.io/github/stars/dominikpaulitsch/Programming_HTBLA-Kaindorf?style=for-the-badge&color=cecece">
+  <img alt="GitHub Repository-License" src="https://img.shields.io/github/license/dominikpaulitsch/Programming?style=for-the-badge">
+  <img alt="GitHub Languages" src="https://img.shields.io/github/languages/top/dominikpaulitsch/Programming?style=for-the-badge">
+  <img alt="GitHub Repository-Stars" src="https://img.shields.io/github/stars/dominikpaulitsch/Programming?style=for-the-badge&color=cecece">
 </p>
 
 ---
